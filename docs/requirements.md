@@ -1,0 +1,3 @@
+- Allow the user to enter classroom temp reading in F
+- Determine if the temp is within the range of 68F-76F, and display normal or warning
+- Calculate the avg for the temps
